@@ -53,7 +53,6 @@ frozenlist==1.3.3
 fsspec==2023.1.0
 gitdb==4.0.10
 GitPython==3.1.30
-graphviz @ file:///C:/Windows/TEMP/abs_7a4z36rraa/croots/recipe/python-graphviz_1660063185022/work
 HeapDict==1.0.1
 hijri-converter==2.2.4
 holidays==0.18
